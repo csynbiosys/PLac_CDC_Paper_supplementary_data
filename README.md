@@ -26,6 +26,6 @@ This folder contains Simulation scripts and data used in the CDC 2018 paper. Thi
     
 	\InputComparison
     		\Scripts
-    		\Data (!)
+    		\Data
     		\ScriptsForGeneratingFigures
     		Readme
